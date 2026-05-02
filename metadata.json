@@ -1,0 +1,8 @@
+{
+  "name": "Pool Shot Analyzer",
+  "description": "Snap a photo of the pool table and let Gemini calculate the best next shot.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
